@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://janez-uint.github.io/](https://janez-uint.github.io/)
 
-- 📫 How to reach me **zhuyihan0826@outlook.com**
+- 📫 How to reach me **zhuyihan0826@outlook.com** or **JaneZ20060826@gmail.com**
 
 - ⚡ Fun fact **I think I'm romantic.**
 
