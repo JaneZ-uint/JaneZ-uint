@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CS1951**
 
-- 📝 I regularly write articles on [https://janez-uint.github.io/](https://janez-uint.github.io/)
+- 📝 I regularly write articles on [https://janezair.site/](https://janezair.site/)
 
 - 📫 How to reach me **zhuyihan0826@outlook.com** or **JaneZ20060826@gmail.com**
 
