@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janez-uint" alt="janez-uint" /></a> </p>
 
-- 🔭 I’m currently working on **Ticket-System**
+- 🔭 I’m currently working on **Unknown**
 
-- 🌱 I’m currently learning **CS1951**
+- 🌱 I’m currently learning **CS188 & CS61C**
 
 - 📝 I regularly write articles on [https://janezair.site/](https://janezair.site/)
 
