@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janez-uint" alt="janez-uint" /></a> </p>
 
-- 🔭 I’m currently working on **DHT**
+- 🔭 I’m currently working on **RCompiler** 😇🫠
 
-- 🌱 I’m currently learning **CS61C**
+- 🌱 I’m currently learning **Computer Architecture** 🥵🥰
 
 - 📝 I regularly write articles on [https://janezair.site/](https://janezair.site/)
 
