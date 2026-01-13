@@ -1,22 +1,34 @@
-<h1 align="center">Hi, this is JaneZ</h1>
-<h3 align="center">So who am I offending now?</h3>
+# Hi 👋, I'm JaneZ
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janez-uint" alt="janez-uint" /></a> </p>
+### SJTU ACM Class 2024
 
-- 🔭 I’m currently working on **RCompiler** 😇🫠
+- 🔭 I'm currently working on **sadly nothing.**
 
-- 🌱 I’m currently learning **Computer Architecture** 🥵🥰
+- 🌱 I'm currently learning **ML,LLM and Compiler Optimization.**
 
-- 📝 I regularly write articles on [https://janezair.site/](https://janezair.site/)
+- 👯 I'm looking to collaborate on **open source projects.**
 
-- 📫 How to reach me **zhuyihan0826@outlook.com** or **JaneZ20060826@gmail.com**
+- 📫 How to reach me **JaneZ20060826@gmail.com**
 
-- ⚡ Fun fact: I am a photography enthusiast 📸 and a music lover🎸.
+- ⚡ Fun fact **My favourite Formula 1 team is Ferrari but I believe Mercedes-AMG PETRONAS will win the 26 season.🏎️
+I 'm the owner of a Nikon Z30 with a 18140 camera.📸
+My favourite airline is Cathay Pacific.✈️
 
+**
+
+- 📝 I regularly write articles on **[https://janezair.site](https://janezair.site)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/JaneZ-uint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JaneZ-uint" height="30" width="40" /></a>
+<a href="https://instagram.com/janez0826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janez0826" height="30" width="40" /></a>
+<a href="https://twitter.com/JaneZ0826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JaneZ0826" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janez-uint&show_icons=true&locale=en&layout=compact" alt="janez-uint" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaneZ-uint&show_icons=true&locale=en&layout=compact" alt="JaneZ-uint" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janez-uint&show_icons=true&locale=en" alt="janez-uint" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaneZ-uint&show_icons=true&locale=en" alt="JaneZ-uint" /></p>
+
