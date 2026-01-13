@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **JaneZ20060826@gmail.com**
 
-- ⚡ Fun fact **My favourite Formula 1 team is Ferrari but I believe Mercedes-AMG PETRONAS will win the 26 season.🏎️
-I 'm the owner of a Nikon Z30 with a 18140 camera.📸
-My favourite airline is Cathay Pacific.✈️
+- ⚡ Fun fact
+   - My favourite Formula 1 team is Ferrari but I believe Mercedes-AMG PETRONAS will win the 26 season.🏎️
+   - I 'm the owner of a Nikon Z30 with a 18140 camera.📸
+   - My favourite airline is Cathay Pacific.✈️
 
-**
 
 - 📝 I regularly write articles on **[https://janezair.site](https://janezair.site)**
 
