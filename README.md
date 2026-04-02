@@ -1,10 +1,10 @@
 # Hi 👋, I'm JaneZ
 
-### SJTU ACM Class 2024
+- 🤩 I'm a sophomore @SJTU-ACM-Class2024.
 
-- 🔭 I'm currently working on **sadly nothing.**
+- 🔭 I'm currently working on **RCompiler & rCore.**
 
-- 🌱 I'm currently learning **ML,LLM and Compiler Optimization.**
+- 🌱 I'm currently learning **Efficient Machine Learning & Compiler Optimization.**
 
 - 👯 I'm looking to collaborate on **open source projects.**
 
@@ -16,7 +16,7 @@
    - My favourite airline is Cathay Pacific.✈️
 
 
-- 📝 I regularly write articles on **[https://janezair.site](https://janezair.site)**
+- 📝 I regularly write articles on **[https://janezair.site](https://janezair.site)** Feel free to check my life and learning record.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
